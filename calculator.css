@@ -19,33 +19,34 @@
 .calculator{
     background: #f8f8f81e;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
+    
 }
 .calculator form input{
     border: 0;
     outline: 0;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     border-radius: 50px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0),5px 5px 15px rgba(0,0,0,0.2);
     background: transparent;
     font-size: 20px;
     color: #dededfce;
     cursor: pointer;
-    margin: 10px;
+    margin: 20px;
 }
 .calculator form input:hover{
     border: 0;
     outline: 0;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     border-radius: 50px;
     box-shadow: -8px -8px 15px rgba(137, 29, 151, 0.747),5px 5px 15px rgba(70, 70, 70, 0.2);
     background: transparent;
     font-size: 20px;
     color: #ffffff;
     cursor: pointer;
-    margin: 10px;
+    margin: 20px;
     border: 1px solid rgba(63, 62, 65, 0);
     
 }
